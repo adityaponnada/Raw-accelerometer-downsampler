@@ -5,7 +5,7 @@ library(plyr)
 library(reshape2)
 
 
-samplingRate = 16
+samplingRate = 0.0008
 
 filePath = "C:/Users/Dharam/Downloads/Signaligner_files/DummyFiles_30Jan/Hour_Raw_2.csv"
 
